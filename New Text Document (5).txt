@@ -1,0 +1,9 @@
+db name= rds-mysql
+Endpoint = rds-mysql.c5eamzi2jmhj.us-east-1.rds.amazonaws.com
+port = 3306
+Availability Zone = us-east-1a
+Subnets= subnet-0189112e8baa8dd6c,
+	 subnet-0bf3284bd17899cb6
+security group = sg-04bb14a514b54e449
+
+rds-mysql.c5eamzi2jmhj.us-east-1.rds.amazonaws.com:3306
